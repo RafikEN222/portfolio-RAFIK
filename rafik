@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio - Rafik EN-HIRI</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Rafik EN-HIRI</h1>
+        <p>Analyser les données pour façonner les décisions de demain</p>
+        <nav>
+            <ul>
+                <li><a href="#competences">Compétences</a></li>
+                <li><a href="#formations">Formations</a></li>
+                <li><a href="#certifications">Certifications</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <!-- Compétences -->
+        <section id="competences">
+            <h2>Compétences</h2>
+            <ul>
+                <li>Python</li>
+                <li>R</li>
+                <li>SQL</li>
+                <li>Power BI</li>
+                <li>Statistiques et modélisation</li>
+            </ul>
+        </section>
+
+        <!-- Formations -->
+        <section id="formations">
+            <h2>Formations</h2>
+            <ul>
+                <li><strong>Master 1</strong> en Économétrie et Statistiques, ISFA Lyon (2024 - 2025)</li>
+                <li><strong>Licence</strong> en Économie appliquée, FDSE Limoges (2022 - 2024)</li>
+                <li><strong>Classe préparatoire</strong> en Économie et Commerce, Maroc (2020 - 2022)</li>
+            </ul>
+        </section>
+
+        <!-- Certifications -->
+        <section id="certifications">
+            <h2>Certifications</h2>
+            <ul>
+                <li><a href="Coursera (IBM data analysis).pdf" target="_blank">Data Analysis with Python (IBM - Coursera)</a></li>
+                <li><a href="PowerBI.pdf" target="_blank">Power BI for Beginners</a></li>
+            </ul>
+        </section>
+
+        <!-- Contact -->
+        <section id="contact">
+            <h2>Contact</h2>
+            <p>Email : <a href="mailto:rafiknhiri07@gmail.com">rafiknhiri07@gmail.com</a></p>
+            <p>LinkedIn : <a href="https://linkedin.com/in/rafik-en-hiri" target="_blank">linkedin.com/in/rafik-en-hiri</a></p>
+        </section>
+    </main>
+    <footer>
+        <p>© 2024 Rafik EN-HIRI - Tous droits réservés</p>
+    </footer>
+</body>
+</html>
